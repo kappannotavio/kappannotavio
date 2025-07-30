@@ -2,6 +2,8 @@
 
 Me chamo Otávio Kappann, tenho 18 anos e sou natural do Rio Grande do Sul. Estou em estágio de conclusão dos cursos técnicos de Análise e Desenvolvimento de Sistemas e Assistente em Administração de Banco de Dados. Atualmente estou cursando Ciência da Computação na URI Santiago.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -71,3 +73,23 @@ Me chamo Otávio Kappann, tenho 18 anos e sou natural do Rio Grande do Sul. Esto
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kappannotavio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kappannotavio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
