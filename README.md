@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Otávio 
 
-Me chamo Otávio Kappann, tenho 18 anos e sou natural do Rio Grande do Sul. Estou em estágio de conclusão dos cursos técnicos de Análise e Desenvolvimento de Sistemas e Assistente em Administração de Banco de Dados. Atualmente estou cursando Ciência da Computação na URI Santiago.
+Me chamo Otávio Kappann, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o curso técnico em Análise e Desenvolvimento de Sistemas.
+Atualmente, estou cursando Ciência da Computação na URI Santiago, no terceiro semestre.
 
 ---
 
